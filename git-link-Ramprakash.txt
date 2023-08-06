@@ -1,0 +1,3 @@
+https://github.com/Ram4596/herovired_devops_assignment.git
+
+git@github.com:Ram4596/herovired_devops_assignment.git
